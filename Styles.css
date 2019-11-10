@@ -3,6 +3,13 @@ body
    background-color:#E5FFE4;
 }
 
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
 
 .WholeBody #tree1
 {
