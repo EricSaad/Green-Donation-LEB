@@ -3,6 +3,13 @@ body
    background-color:#E5FFE4;
 }
 
+img
+{
+  position: fixed;
+  bottom: 510px;
+  right: 0px;
+  width: 200px;
+}
 .WholeBody #tree1
 {
   position: fixed;
